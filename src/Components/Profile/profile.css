@@ -1,0 +1,45 @@
+/* .follow-data {
+    display: flex;
+    text-align: center;
+  }
+  
+  .follow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px 15px 5px 0;
+    color: #999999;
+  }
+  
+  .follow b {
+    border: 2px #999999 solid;
+    border-radius: 8px;
+    padding: 10%;
+    width: 100%;
+  } */.follow-data {
+  display: flex;
+  text-align: center;
+  cursor: pointer;
+}
+
+.follow {
+    padding: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px 15px 5px 0;
+  color: #999999;
+}
+
+.follow b {
+  border: 2px solid #999999;
+  border-radius: 8px;
+  padding: 10%;
+  width: 100%;
+  transition: border-color 0.3s ease, color 0.3s ease; /* Adding transition for smooth effect */
+}
+
+.follow:hover b {
+  border-color: blue; 
+  color: blue;
+}
