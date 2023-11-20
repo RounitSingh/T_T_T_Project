@@ -1,8 +1,11 @@
 # Terribly Tiny Tales Assignment
 
-## Problem Statement
+![Screenshot 2023-11-21 042823](https://github.com/RounitSingh/T_T_T_Project/assets/117521913/9b10c514-94df-4876-8583-db20d038ee8b)
+![Screenshot 2023-11-21 042859](https://github.com/RounitSingh/T_T_T_Project/assets/117521913/061cb921-0422-46df-bf2a-fdd85ff3da51)
+
 Project link: https://t-t-t-project.vercel.app/
-Develop a frontend in Reactjs or Nextjs, which does the following:
+## Problem Statement
+Develop a frontend in Reactjs , which does the following:
 
 1. Renders a "profile screen" as follows: https://www.terriblytinytales.com/profile.jpeg (this is a sample screenshot taken from mobile view)
 
@@ -41,9 +44,5 @@ Develop a frontend in Reactjs or Nextjs, which does the following:
 
 ## Fuunctionalities
 
-1. The Navbar is fixed at the top of the page.
-2. The Profile is renders the profile data and show total number of followers, following and user reviews.
-3. The Posts renders the posts data and show total number of posts along with like button which increments the number of likes on click.
-4. The page is responsive and can be viewed on different mobile types.
 
 
