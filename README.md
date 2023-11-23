@@ -43,6 +43,24 @@ Develop a frontend in Reactjs , which does the following:
 4. Posts.jsx - The component which renders the Posts.
 
 ## Fuunctionalities
+<ul>
+  <li>Hover Effects on Followers and Following:
+        When hovering over the "Followers" and "Following" sections, the border color and text color change to the specified hover color ('blue' by default).
+        This provides a visual indication to the user about the interactive elements.
+        </li>
+  <li>Dynamic Display of User Information:
+        Displays user information such as name, profile image, followers count, following count, description, website, star count, thumbs-up count (provided as a prop like), eye count, and heart count.
+        The user's name is displayed in bold, and additional icons (diamond and green tick) are used for decorative purposes.</li>
+  <li>Mouse Enter and Leave Handlers:
+        Utilizes mouse enter and leave event handlers to track the currently hovered element ('followers' or 'following').
+        Adjusts the border and text color dynamically based on the hover state.</li>
+  <li>Responsive Styling:
+        The component includes responsive styling, ensuring a consistent and visually appealing layout on different devices.</li>
+</ul>
+
+
+
+
 
 
 
