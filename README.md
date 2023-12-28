@@ -1,4 +1,4 @@
-# Terribly Tiny Tales Assignment
+# XenonStack Assignment
 
 ![Screenshot 2023-11-21 042823](https://github.com/RounitSingh/T_T_T_Project/assets/117521913/9b10c514-94df-4876-8583-db20d038ee8b)
 ![Screenshot 2023-11-21 042859](https://github.com/RounitSingh/T_T_T_Project/assets/117521913/061cb921-0422-46df-bf2a-fdd85ff3da51)
